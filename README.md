@@ -40,3 +40,6 @@ The goal of this project is to perform exploratory data analysis (EDA) and extra
 •	Visualizations for better insights
 •	Analytical answers to business questions
 •	Python notebook with code and plots
+
+
+Dataset from Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
